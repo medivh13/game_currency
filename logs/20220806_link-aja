@@ -1,0 +1,5 @@
+{"level":"info","msg":"sql database connection postgres success","time":"2022-08-06T10:36:19+07:00"}
+{"level":"info","msg":"listen on:8080","time":"2022-08-06T10:36:19+07:00"}
+{"level":"warning","msg":"got signal: 0x140003041e0, shutting down server ...","time":"2022-08-06T10:37:15+07:00"}
+{"level":"info","msg":"server exiting","time":"2022-08-06T10:37:15+07:00"}
+{"level":"info","msg":"sql database postgres successfuly closed.","time":"2022-08-06T10:37:15+07:00"}

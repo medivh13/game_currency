@@ -1,0 +1,45 @@
+{"level":"info","msg":"sql database connection postgres success","time":"2022-08-04T15:27:38+07:00"}
+{"level":"info","msg":"listen on:8080","time":"2022-08-04T15:27:38+07:00"}
+{"level":"warning","msg":"got signal: 0x140003061e0, shutting down server ...","time":"2022-08-04T15:31:09+07:00"}
+{"level":"info","msg":"server exiting","time":"2022-08-04T15:31:09+07:00"}
+{"level":"info","msg":"sql database postgres successfuly closed.","time":"2022-08-04T15:31:09+07:00"}
+{"level":"info","msg":"sql database connection postgres success","time":"2022-08-04T15:31:13+07:00"}
+{"level":"info","msg":"listen on:8080","time":"2022-08-04T15:31:13+07:00"}
+{"level":"warning","msg":"got signal: 0x140002861e0, shutting down server ...","time":"2022-08-04T15:31:41+07:00"}
+{"level":"info","msg":"server exiting","time":"2022-08-04T15:31:41+07:00"}
+{"level":"info","msg":"sql database postgres successfuly closed.","time":"2022-08-04T15:31:41+07:00"}
+{"level":"info","msg":"sql database connection postgres success","time":"2022-08-04T15:31:44+07:00"}
+{"level":"info","msg":"listen on:8080","time":"2022-08-04T15:31:44+07:00"}
+{"level":"warning","msg":"got signal: 0x14000304240, shutting down server ...","time":"2022-08-04T15:35:50+07:00"}
+{"level":"info","msg":"server exiting","time":"2022-08-04T15:35:50+07:00"}
+{"level":"info","msg":"sql database postgres successfuly closed.","time":"2022-08-04T15:35:50+07:00"}
+{"level":"info","msg":"sql database connection postgres success","time":"2022-08-04T15:35:54+07:00"}
+{"level":"info","msg":"listen on:8080","time":"2022-08-04T15:35:54+07:00"}
+{"level":"warning","msg":"got signal: 0x14000304180, shutting down server ...","time":"2022-08-04T15:37:53+07:00"}
+{"level":"info","msg":"server exiting","time":"2022-08-04T15:37:53+07:00"}
+{"level":"info","msg":"sql database postgres successfuly closed.","time":"2022-08-04T15:37:53+07:00"}
+{"level":"info","msg":"sql database connection postgres success","time":"2022-08-04T15:37:59+07:00"}
+{"level":"info","msg":"listen on:8080","time":"2022-08-04T15:37:59+07:00"}
+{"level":"warning","msg":"got signal: 0x14000304240, shutting down server ...","time":"2022-08-04T15:38:33+07:00"}
+{"level":"info","msg":"server exiting","time":"2022-08-04T15:38:33+07:00"}
+{"level":"info","msg":"sql database postgres successfuly closed.","time":"2022-08-04T15:38:33+07:00"}
+{"level":"info","msg":"sql database connection postgres success","time":"2022-08-04T15:39:52+07:00"}
+{"level":"info","msg":"listen on:8080","time":"2022-08-04T15:39:52+07:00"}
+{"level":"info","msg":"sql database connection postgres success","time":"2022-08-04T15:43:01+07:00"}
+{"level":"info","msg":"listen on:8080","time":"2022-08-04T15:43:01+07:00"}
+{"level":"info","msg":"sql database connection postgres success","time":"2022-08-04T15:45:34+07:00"}
+{"level":"info","msg":"listen on:8080","time":"2022-08-04T15:45:34+07:00"}
+{"level":"info","msg":"sql database connection postgres success","time":"2022-08-04T15:46:15+07:00"}
+{"level":"info","msg":"listen on:8080","time":"2022-08-04T15:46:15+07:00"}
+{"level":"info","msg":"sql database connection postgres success","time":"2022-08-04T15:46:53+07:00"}
+{"level":"info","msg":"listen on:8080","time":"2022-08-04T15:46:53+07:00"}
+{"level":"fatal","msg":"listen tcp :8080: bind: address already in use","time":"2022-08-04T15:46:53+07:00"}
+{"level":"info","msg":"sql database connection postgres success","time":"2022-08-04T15:47:01+07:00"}
+{"level":"info","msg":"listen on:8080","time":"2022-08-04T15:47:01+07:00"}
+{"level":"info","msg":"sql database connection postgres success","time":"2022-08-04T15:57:16+07:00"}
+{"level":"info","msg":"listen on:8080","time":"2022-08-04T15:57:35+07:00"}
+{"level":"info","msg":"sql database connection postgres success","time":"2022-08-04T15:59:25+07:00"}
+{"level":"info","msg":"listen on:8080","time":"2022-08-04T15:59:25+07:00"}
+{"level":"warning","msg":"got signal: 0x140003041e0, shutting down server ...","time":"2022-08-04T15:59:58+07:00"}
+{"level":"info","msg":"server exiting","time":"2022-08-04T15:59:58+07:00"}
+{"level":"info","msg":"sql database postgres successfuly closed.","time":"2022-08-04T15:59:58+07:00"}
